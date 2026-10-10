@@ -1,5 +1,3 @@
-# Vehicle-Image-Annotation-Practice-with-CVAT
-Mini-project
 # Vehicle Image Annotation Practice with CVAT
 
 ## 1. Giới thiệu
