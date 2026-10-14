@@ -2,7 +2,7 @@
 
 ## 1. Giới thiệu
 
-Dự án thực hành gán nhãn ảnh phương tiện giao thông bằng CVAT nhằm làm quen với quy trình image annotation, tạo bounding box, quản lý nhãn và xuất dữ liệu phục vụ các tác vụ thị giác máy tính.
+Dự án thực hành gán nhãn ảnh phương tiện giao thông bằng CVAT nhằm làm quen với quy trình image annotation, tạo bounding box, quản lý nhãn và xuất dữ liệu.
 
 ## 2. Thông tin dự án
 
@@ -11,7 +11,6 @@ Dự án thực hành gán nhãn ảnh phương tiện giao thông bằng CVAT n
 - **Công cụ:** CVAT
 - **Phương pháp:** Bounding box annotation
 - **Định dạng nhãn:** YOLO
-- **Loại dự án:** Personal learning project
 
 ## 3. Quy trình thực hiện
 
@@ -39,7 +38,3 @@ Các tiêu chí tự kiểm tra gồm:
 ## 6. Minh chứng
 
 Xem thư mục `screenshots/` để tham khảo giao diện CVAT và một số ảnh đã gán nhãn.
-
-## 7. Lưu ý
-
-Đây là dự án tự học nhằm thực hành kỹ năng gán nhãn dữ liệu. Các tiêu chí kiểm tra chất lượng được sử dụng cho mục đích tự rà soát; dự án chưa có đánh giá độ chính xác dựa trên bộ nhãn chuẩn độc lập.
